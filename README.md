@@ -7,4 +7,4 @@ die worden verstrekt door UWV. De gebruiker moet diverse basisgegevens over de
 uitkering invullen, waarmee vervolgens een berekening kan worden gemaakt.
 
 ## Beperkingen
-Applicatie is gemaakt als oefening, en niet meer actueel vanaf april 2024.
+Applicatie is gemaakt als oefening met Java, en niet meer actueel vanaf april 2024.
