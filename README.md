@@ -1,5 +1,5 @@
 # WAO-Wajong-Rekenhulp
-Application to estimate WAO and Wajong benefits
+Application to estimate Dutch WAO and Wajong benefits
 
 ## Doel van de applicatie
 Berekenen van de hoogte van WAO-, en Wajong-uitkeringen
