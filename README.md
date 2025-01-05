@@ -8,4 +8,4 @@ uitkering invullen, waarmee vervolgens een berekening kan worden gemaakt.
 
 ## Beperkingen
 Applicatie is gemaakt als oefening met Java, en voor WAO niet meer bruikbaar sinds april 2024.
-Voor Wajong is de applicatie nog te gebruiken tot en met december 2024.
+Voor Wajong is de applicatie nog te gebruiken tot en met juni 2025.
